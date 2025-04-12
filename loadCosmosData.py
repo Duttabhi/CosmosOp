@@ -12,7 +12,7 @@
 
 
 cosmosEndpoint = "https://myprojectcosmosdb.documents.azure.com:443/"
-cosmosMasterKey = ""
+cosmosMasterKey = 
 cosmosDatabaseName = "mycosmosdb"
 cosmosContainerName = "basicuser"
 
