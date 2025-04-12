@@ -1,2 +1,0 @@
-# CosmosOp
-Cosmos database connection
